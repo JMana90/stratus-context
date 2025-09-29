@@ -1,0 +1,28 @@
+# Stratus — Environment Variables (Names Only)
+
+## Frontend (public)
+- VITE_SUPABASE_URL
+- VITE_SUPABASE_ANON_KEY
+- VITE_FRONTEND_BASE_URL
+
+## Edge Functions — Common
+- SUPABASE_URL                      (KEEP SECRET VALUE)
+- SUPABASE_SERVICE_ROLE_KEY         (KEEP SECRET VALUE)
+- CORS_ALLOWED_ORIGINS
+- FRONTEND_BASE_URL
+- FRONTEND_BASE_URL_ALT
+
+## Salesforce
+- SF_CLIENT_ID                      (KEEP SECRET VALUE)
+- SF_CLIENT_SECRET                  (KEEP SECRET VALUE)
+- SF_REDIRECT_URI
+
+## Google
+- GOOGLE_CLIENT_ID                  (KEEP SECRET VALUE)
+- GOOGLE_CLIENT_SECRET              (KEEP SECRET VALUE)
+- GOOGLE_REDIRECT_URI
+
+## Box
+- BOX_CLIENT_ID                     (KEEP SECRET VALUE)
+- BOX_CLIENT_SECRET                 (KEEP SECRET VALUE)
+- BOX_REDIRECT_URI
