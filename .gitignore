@@ -1,0 +1,12 @@
+.env
+.env.*
+*.env
+*credentials*.json
+*client_secret*.json
+supabase/functions/**/.env
+*.pem
+*.key
+*.p12
+*.crt
+node_modules
+dist
